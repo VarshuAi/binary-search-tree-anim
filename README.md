@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Renders node insertions into active binary search tree layouts.
+  name: binary-search-tree-anim version: 1.0 type: Repository author: VarshuAi description: >   Renders node insertions into active binary search tree layouts. primary_tech: CSS
 primary_tech: CSS
 ```
 
